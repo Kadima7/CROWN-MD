@@ -1,4 +1,4 @@
-# 𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 
+# 𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 𝐁𝐎𝐓©️™️
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=LONG LIVE+𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 𝐁𝐎𝐓©️;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+⇆࿅𝐈𝐀𝐍࿅⇆↯;PUBLIC+RELESED; ...;TEAM 𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 ." alt="Typing SVG" /></a>
   </p>
