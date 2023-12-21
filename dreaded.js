@@ -1105,7 +1105,7 @@ await m.reply('Successfully removed!');
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://i.imgur.com/1rqCELH.jpeg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 𝐁𝐎𝐓 using the GitHub link below🕷️\n\nFork and give us a star✨.\n\n https://github.com/kadima7/𝐋𝐎𝐍𝐄𝐑 𝐀𝐈\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@njaisirm1/Crown-Pairing-v6\n\nEnjoy and have fun with CROWN 👑..\n\nMade on Earth by 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏!!` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 𝐁𝐎𝐓 using the GitHub link below🕷️\n\nFork and give us a star✨.\n\n https://github.com/kadima7/𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 𝐁𝐎𝐓\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@njaisirm1/Crown-Pairing-v6\n\nEnjoy and have fun with CROWN 👑..\n\nMade on Earth by 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏!!` });
 
    break;
                                                   
