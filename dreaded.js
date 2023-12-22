@@ -519,7 +519,7 @@ reply(resultt.stderr)
 
 break;
 
-case "crown":
+case "𝐋𝐎𝐍𝐄𝐑 𝐀𝐈":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -642,7 +642,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `DreadedBot`
+                    author: `𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 𝐁𝐎𝐓`
                 })
 
 } catch (errr) { 
@@ -1148,7 +1148,7 @@ await m.reply('Successfully removed!');
                  let users = m.mentionedJid[0] ? m.mentionedJid : m.quoted ? [m.quoted.sender] : [text.replace(/[^0-9]/g, '')+'@s.whatsapp.net']; 
   
                  await client.groupParticipantsUpdate(m.chat, users, 'promote'); 
- m.reply('Successfully promoted! 👑'); 
+ m.reply('Successfully promoted! 👽'); 
          } 
  break; 
  case "demote": { 
@@ -1328,7 +1328,7 @@ break;
 
   case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/eImS3eF.jpeg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 *\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄:⇆࿅𝐈𝐀𝐍࿅⇆↯ _*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https:/'https://telegra.ph/file/899e7e3d2d3bb4ca419c7.png' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 *\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄:⇆࿅𝐈𝐀𝐍࿅⇆↯ _*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "take": {
