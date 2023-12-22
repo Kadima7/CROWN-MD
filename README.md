@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://https://telegra.ph/file/899e7e3d2d3bb4ca419c7.png" width="300" height="300"/>
+<img src="https://telegra.ph/file/899e7e3d2d3bb4ca419c7.png" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐋𝐎𝐍𝐄𝐑 𝐀𝐈 𝐁𝐎𝐓+WHATSAPP+BOT" alt="">
